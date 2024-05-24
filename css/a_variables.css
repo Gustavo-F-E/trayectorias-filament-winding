@@ -1,0 +1,18 @@
+/*******************/
+/*    Variables    */
+/*******************/
+
+:root {
+
+  /* Fuentes*/
+  @import url('https://fonts.googleapis.com/css2?family=Mali:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+  --font-size: 16px;/* var(--font-size) */
+
+  /*Colores*/
+
+  --color-principal-de-fondo: rgb(29, 29, 29); /* var(--color-principal-de-fondo) */
+  --color-principal-titulo: rgba(150,150,150,1); /* var(--color-principal-titulo) */
+  --color-link: rgba(41, 6, 242,1); /* var(--color-link) */
+  --color-white: rgba(210, 210, 210, 1);/* var(--color-white) */
+}
